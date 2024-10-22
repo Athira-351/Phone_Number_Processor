@@ -2,7 +2,7 @@
 <p>
 </p>
 
-<h1>Phone Number Processor - Manual Setup Guide</h1>
+<h3>Phone Number Processor - Manual Setup Guide</h3>
 <h2>1. Programming Language</h2>
 <p><strong>Python</strong>: The primary programming language for phone number processing (assuming Python based on the nature of the project).</p>
 <h2>2. Libraries and Modules</h2>
@@ -38,13 +38,12 @@
      <li><strong>React.js</strong>: For the frontend interface. Ensure Node.js and npm/yarn are installed.
             <ul>
                 <li>Node.js: <a href="https://nodejs.org/">Download and install from here</a>.</li>
-                <li>React.js:<br>
-                <code>npx create-react-app phone-number-processor</code></li>
+                <li>React.js: <code>npx create-react-app phone-number-processor</code></li>
             </ul>
             </ul>
         </li>
          <li><strong>File Upload Handling</strong>: Use a library like <code>react-dropzone</code> or native HTML form for file upload.<br>
-        <code>npm install react-dropzone</code></li>
+        <\t><\t><\t><code>npm install react-dropzone</code></li>
          <li><strong>Bootstrap</strong>: To style the app.<br>
         <code>npm install bootstrap</code></li>
     </ul>
@@ -75,15 +74,14 @@
         <li><strong>Set up the Python environment:</strong><br>
         Install Python and create a virtual environment. Install necessary Python packages (<code>pandas</code>, <code>phonenumbers</code>, <code>openpyxl</code>, etc.).</li>
         
-        <li><strong>Create a React.js frontend:</strong><br>
-        Install React.js using <code>npx create-react-app</code>. Set up Bootstrap for styling and <code>react-dropzone</code> for file uploads.</li>
-
-        <li><strong>Build Flask Backend:</strong><br>
+<li><strong>Create a React.js frontend:</strong><br>
+Install React.js using <code>npx create-react-app</code>. Set up Bootstrap for styling and <code>react-dropzone</code> for file uploads.</li>
+<li><strong>Build Flask Backend:</strong><br>
         Create a Flask server to handle Excel file uploads, processing, and return cleaned files.</li>
 
-        <li><strong>Integrate Frontend and Backend:</strong><br>
+<li><strong>Integrate Frontend and Backend:</strong><br>
         Connect the React frontend to the Flask backend using HTTP requests (use <code>fetch</code> or <code>axios</code>).</li>
-    </ol>
+</ol>
   
     
  <p>By following these steps and installing the required libraries, you'll be able to recreate the project manually without cloning it.</p>
