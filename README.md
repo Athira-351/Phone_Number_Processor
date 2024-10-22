@@ -1,8 +1,37 @@
-<h1 align="center">Welcome to PNP App 👋</h1>
+<h1 align="center">Welcome to PNP App(Phone-Number-Processor) 👋</h1>
 <p>
 </p>
 
-<h3>Phone Number Processor - Manual Setup Guide</h3>
+## Requirements
+- **Python Version**: 3.8 or higher
+- **Operating System**: Windows, macOS, or Linux
+## Libraries and Modules
+To install the required libraries, run: <code>pip install -r requirements.txt</code> </br>    
+Or install manually:
+ <ol>
+     <li>pandas</li>
+     <li>openpyxl</li>
+     <li>numpy</li>
+     <li>phonenumbers</li>
+ </ol>
+
+## Step-by-Step Procedure
+### 1. Clone the repository:
+    <code>git clone https://github.com/Athira-351/Phone_Number_Processor.git</code>
+    <code>cd Phone_Number_Processor</code>
+### 2. Create a virtual environment:
+    <code>python -m venv venv</code>
+### 3. Activate the virtual environment:
+    Windows: <code>venv\Scripts\activate</code>
+    macOS/Linux: <code>source venv/bin/activate</code>
+### 4. Install the required libraries
+### 5. Run the application
+
+
+##
+##
+
+<h4>Phone Number Processor - Manual Setup Guide</h4>
 <h2>1. Programming Language</h2>
 <p><strong>Python</strong>: The primary programming language for phone number processing (assuming Python based on the nature of the project).</p>
 <h2>2. Libraries and Modules</h2>
