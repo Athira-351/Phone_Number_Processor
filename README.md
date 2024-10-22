@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to PNP App(Phone-Number-Processor) 👋</h1>
+<h1 align="center">Welcome to Phone Number Formatter 👋</h1>
 <p>
 </p>
 
