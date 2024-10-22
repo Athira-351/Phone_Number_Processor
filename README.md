@@ -43,7 +43,7 @@
             </ul>
         </li>
          <li><strong>File Upload Handling</strong>: Use a library like <code>react-dropzone</code> or native HTML form for file upload.<br>
-        <\t><\t><\t><code>npm install react-dropzone</code></li>
+        <code>npm install react-dropzone</code></li>
          <li><strong>Bootstrap</strong>: To style the app.<br>
         <code>npm install bootstrap</code></li>
     </ul>
@@ -91,7 +91,7 @@ Install React.js using <code>npx create-react-app</code>. Set up Bootstrap for s
 
 👤 **Athira Anil**
 
-* Github: [@Athira351](https://github.com/Athira-351)
+* Github: [@Athira-351](https://github.com/Athira-351)
 
 ## Show your support
 
